@@ -33,4 +33,4 @@ Install drivers like normal, except with notes for the following drivers:
 ## Bugs
 - There are currently no working camera drivers for Windows 2000.
 - While Easy Display Manager is running, sound control through hotkeys is broken.
-- Samsung Battery Manager cannot set power plans due to incompatible `POWRPROF.DLL`.
+- Samsung Battery Manager cannot set power plans due to incompatible `POWRPROF.DLL` (taken from Windows XP SP3).
